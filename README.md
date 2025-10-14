@@ -15,7 +15,7 @@ A simple Python program that calculates the final price of an item after applyin
 
 Run the program:
 ```bash
-python discount_calculator.py
+python python_week_3.py
 ```
 
 Then enter the original price and discount percentage when prompted.
